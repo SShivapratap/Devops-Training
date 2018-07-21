@@ -9,5 +9,10 @@
  git config --global user.name "SShivapratap"
  $ git config --global user.email "shivapratap007@gmail.com"
 $ git clone https://github.com/SShivapratap/Devops-Training.git
-
+$ git pwd(present working directory)
+$ cd Devops_Training/
+$ git status
+$ git add.(add all files) or $ git add filename 
+$ git status to check file tracked
+$ git commit -m "commit name" (to move from stage to commit)
 
