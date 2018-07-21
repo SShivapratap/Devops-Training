@@ -1,0 +1,13 @@
+1. Download git 
+2. create account for github
+3. create repository within github
+4. create folder within local for git
+5. Right click within the folder and click git bash here
+5. stpe or commands to login in git
+ 
+ git init(initiate local repo)  
+ git config --global user.name "SShivapratap"
+ $ git config --global user.email "shivapratap007@gmail.com"
+$ git clone https://github.com/SShivapratap/Devops-Training.git
+
+
